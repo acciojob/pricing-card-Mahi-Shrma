@@ -1,11 +1,36 @@
 /*  your css code here. If applicable */
 .container{
-	width:75%;
-	height:600px;
-	box-shadow: 10px 10px 8px #888888;
-	background-color:cornsilk;
+	width:65%;
+	height:530px;
+	box-shadow: 4px 10px 8px lightgrey,
+	             -4px 10px 8px lightgrey;
+	background-color:whitesmoke;
 	margin:auto;
 }
+h1{
+	margin-left:29%;
+    padding-top:0px;
+    margin-bottom:0px;
+	font-size:34px;
+}
 img{
-	width:75%;
+	width:69%;
+	height:190px;
+	padding-top:40px;
+	margin-left:67px;
+}
+p{
+	font-weight:bold;
+	text-align:center;
+	margin-top:2px;
+	font-size:18px;
+}
+button{
+	padding:10px;
+	font-size:18px;
+     background-color:coral;
+	color:white;
+	margin-left:169px;
+	border-radius:10%;
+	
 }
