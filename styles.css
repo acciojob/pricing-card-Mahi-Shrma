@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.container{
+	width:75%;
+	height:600px;
+	box-shadow: 10px 10px 8px #888888;
+	background-color:cornsilk;
+	margin:auto;
+}
+img{
+	width:75%;
+}
